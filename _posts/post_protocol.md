@@ -3,7 +3,7 @@ layout: post
 title: General Template For Writing A Protocol in Your Lab Notebook
 tags: [ Protocol ]
 ---
-
+# test
 # Protocol Title: General for the Technique
 
 **Goal or reason for the technique, and conceptual description of the method (if applicable).**   
